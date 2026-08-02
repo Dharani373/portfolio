@@ -4,7 +4,7 @@ A modern, responsive developer portfolio showcasing my projects, technical skill
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** https://your-portfolio.vercel.app
+🔗 **Portfolio:** https://dharanikr.vercel.app/
 
 ---
 
@@ -91,16 +91,35 @@ Developed **QuizForge AI**, an AI-powered quiz generation platform integrating D
 
 ## 📬 Contact
 
-**Email:** krdharani777@gmail.com
+<p align>
+ Open to collaboration, learning opportunities, and tech discussions.<br>
+ 
+ Feel free to connect, solve problems together, or explore new ideas!
+</p>
 
-**LinkedIn:**  
-https://www.linkedin.com/in/dharanikr/
+<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/dharanikr/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35"/>
+</a>
+</td>
 
-**GitHub:**  
-https://github.com/Dharani373
+<td align="center">
+<a href="mailto:krdharani777@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" height="35" width="35"/>
+</a>
+</td>
 
-**LeetCode:**  
-https://leetcode.com/krdharani_777/
+<td align="center">
+<a href="https://leetcode.com/u/Dharani_777/">
+<img src="https://cdn.simpleicons.org/leetcode" height="35" width="35"/>
+</a>
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
