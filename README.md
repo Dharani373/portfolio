@@ -1,16 +1,106 @@
-# React + Vite
+# 🌐 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive developer portfolio showcasing my projects, technical skills, internship experience, hackathon participation, and achievements. Built with React and Tailwind CSS, the portfolio provides an overview of my work, along with links to project repositories, resume, certifications, and professional profiles.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Portfolio:** https://your-portfolio.vercel.app
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+-  About Me section
+-  Technical Skills categorized by domain
+-  Featured Full-Stack Projects
+-  Hackathon Achievements
+-  Internship Experience
+-  Resume Download
+-  Internship Certificate
+-  Contact Information
+-  Modern Dark UI
+-  Fully Responsive Design
+-  Smooth Scrolling Navigation
+-  Active Sidebar Navigation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+
+### Libraries
+
+- React Icons
+
+### Deployment
+
+- Vercel
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 MindCare
+AI-powered mental health support platform leveraging sentiment analysis to provide personalized wellness insights.
+
+**Tech Stack:** Django, JavaScript, SQLite
+
+---
+
+### 🍽️ MealMate
+A full-stack food ordering platform featuring authentication, product browsing, shopping cart, and admin management.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
+
+---
+
+### 🏛️ CivicVoice
+A MERN-based civic complaint resolution platform enabling citizens to report and monitor civic issues.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
+
+---
+
+### 🛒 Forever E-Commerce
+A scalable MERN e-commerce platform with authentication, cart management, and product administration.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
+
+---
+
+## 🏆 Achievements
+
+- Smart India Hackathon (SIH) Participant
+- HackVibe 24-Hour Hackathon Participant
+- Solved 250+ DSA problems across LeetCode and CodeChef
+
+---
+
+## 💼 Experience
+
+**Infosys Springboard Virtual Internship**
+
+Developed **QuizForge AI**, an AI-powered quiz generation platform integrating Django and the OpenAI API with secure authentication, automated evaluation, leaderboard rankings, and personalized dashboards.
+
+---
+
+## 📬 Contact
+
+**Email:** krdharani777@gmail.com
+
+**LinkedIn:**  
+https://www.linkedin.com/in/dharanikr/
+
+**GitHub:**  
+https://github.com/Dharani373
+
+**LeetCode:**  
+https://leetcode.com/krdharani_777/
+
+---
+
