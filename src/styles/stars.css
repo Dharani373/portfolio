@@ -1,0 +1,114 @@
+.stars-container {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* First Layer */
+
+.stars {
+  position: absolute;
+  inset: 0;
+}
+
+.stars::before {
+  content: "";
+  position: absolute;
+
+  width: 2.5px;
+  height: 2.5px;
+
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 50%;
+
+  box-shadow:
+    60px 100px white,
+    120px 180px white,
+    180px 250px white,
+    250px 70px white,
+    320px 80px white,
+    390px 260px white,
+    450px 420px white,
+    520px 120px white,
+    620px 170px white,
+    690px 350px white,
+    760px 500px white,
+    840px 220px white,
+    910px 300px white,
+    980px 100px white,
+    1080px 140px white,
+    1150px 390px white,
+    1230px 420px white,
+    1310px 180px white,
+    1410px 200px white,
+    1490px 520px white,
+    1570px 580px white,
+    1650px 260px white,
+    1710px 350px white,
+    1780px 140px white;
+
+  animation: fall 40s linear infinite;
+}
+
+/* Second Layer */
+
+.stars2 {
+  position: absolute;
+  inset: 0;
+}
+
+.stars2::before {
+  content: "";
+  position: absolute;
+
+  width: 1.8px;
+  height: 1.8px;
+
+  background: white;
+  border-radius: 50%;
+  opacity: 0.9;
+
+  box-shadow:
+    90px 500px white,
+    150px 720px white,
+    220px 430px white,
+    310px 610px white,
+    420px 340px white,
+    520px 760px white,
+    610px 540px white,
+    710px 660px white,
+    810px 450px white,
+    900px 730px white,
+    990px 510px white,
+    1090px 670px white,
+    1180px 540px white,
+    1260px 760px white,
+    1350px 620px white,
+    1450px 480px white,
+    1530px 700px white,
+    1630px 560px white,
+    1720px 740px white,
+    1810px 420px white;
+
+  animation: fall 55s linear infinite;
+}
+
+@keyframes fall {
+  from {
+    transform: translateY(-120px);
+  }
+
+  to {
+    transform: translateY(110vh);
+  }
+}
+
+.stars-copy::before {
+  animation-delay: -20s;
+}
+
+.stars2-copy::before {
+  animation-delay: -27.5s;
+}
