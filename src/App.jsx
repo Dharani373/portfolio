@@ -13,7 +13,7 @@ function App() {
       <Stars />
       <Sidebar />
 
-      <main className="relative z-10 ml-[320px]">
+      <main className="relative z-10 lg:ml-[320px]">
         <About />
       </main>
 

@@ -12,13 +12,13 @@ function Contact() {
   return (
     <section
       id="contact"
-      className="min-h-screen ml-[360px] px-20 py-24 pb-20 flex items-center"
+      className="min-h-screen lg:ml-[360px] px-5 sm:px-8 lg:px-20 py-16 lg:py-24"
     >
       <div className="max-w-7xl mx-auto w-full">
         {/* Heading */}
 
         <h2
-          className="text-white text-8xl mb-16"
+          className="text-white text-5xl sm:text-6xl lg:text-8xl mb-16"
           style={{
             fontFamily: "Allura",
           }}
@@ -44,7 +44,7 @@ function Contact() {
           {/* Title */}
 
           <h3
-            className="text-white text-5xl"
+            className="text-white text-5xl sm:text-6xl lg:text-8xl"
             style={{
               fontFamily: "Cormorant Garamond",
             }}

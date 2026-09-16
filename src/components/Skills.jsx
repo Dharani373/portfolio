@@ -63,12 +63,15 @@ function Skills() {
   ];
 
   return (
-    <section id="skills" className="min-h-screen ml-[360px] px-20 py-24">
+    <section
+      id="skills"
+      className="min-h-screen lg:ml-[360px] px-5 sm:px-8 lg:px-20 py-16 lg:py-24"
+    >
       <div className="max-w-6xl mx-auto">
         {/* Heading */}
 
         <h2
-          className="text-white text-8xl mb-16"
+          className="text-white text-5xl sm:text-6xl lg:text-8xl mb-16"
           style={{
             fontFamily: "Allura",
           }}
